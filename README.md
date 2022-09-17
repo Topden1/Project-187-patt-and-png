@@ -1,1 +1,1 @@
-# Project-187-patt-and-png
+# PRO-C187-Student-Boilerplate
